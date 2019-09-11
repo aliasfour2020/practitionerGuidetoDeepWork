@@ -10,6 +10,10 @@
 
 ## Why
 
+### Yourself
+
+### Your Career
+
 ## Start Here
 
 [Digital Declutter](https://github.com/Duffney/deepWork-digitalMinimalism/blob/master/digitialDeclutter.md)
