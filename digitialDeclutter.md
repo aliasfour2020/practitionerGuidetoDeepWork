@@ -51,6 +51,6 @@ Suggestions:
     * That email can wait from the recuriter.
     * This isn't the best use of your time, fight the urge to be constantly connected.
 
-_Why I block low-quality leisure until 8:00pm:_ I opted for the first schedule example after trying the second example for a few weeks. I learned that knowing I could check it at noon everyday during my workday was a huge distraction. When I'd get bored or was waiting for code to complete I'd think "Wonder if I have any Twitter messages, is it noon yet?" That was enough for my willpower to lapse and unblock it and check it before or after my specified time. My justifications was I was working during my allowed time and didn't get to check it. What's the harm is sprinkling in a 5 minute check here and there right?
+_Why I block low-quality leisure until 8:00pm:_ I opted for the first schedule example after trying the second example for a few weeks. I learned that knowing I could check it at noon everyday during my workday was a huge distraction. When I'd get bored or was waiting for code to complete I'd think "Wonder if I have any Twitter messages, is it noon yet?" That was enough for my willpower to lapse. I'd unblock it and check it before or after my specified time. My justifications was I was working during my allowed time and didn't get to check it. What's the harm is sprinkling in a 5 minute check here and there right?
 
 ### Deep Work Session Protocol
