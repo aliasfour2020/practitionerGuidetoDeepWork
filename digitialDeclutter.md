@@ -30,7 +30,7 @@
 
 ### Scheduled Usage
 
-Scheduled usage of optional technology is used to prevent those technologies from creeping back into your life and stealing your time and scattering your attention. Twitter, Linkedin, personal email, business email, and online shopping fit into the category of low-quality leisure. These optional technologies are not required, but do provide value. The goal is to maximize the value and minimize the distraction caused by using them. To do so a schedule must be put in place. Specify a time when the tools become accessible or specify a time when you can use the tools.
+Scheduled usage of optional technology is used to prevent those technologies from creeping into your life and stealing your time and scattering your attention. Twitter, Linkedin, personal email, business email, and online shopping fit into the category of low-quality leisure. These optional technologies are not required, but do provide value. The goal is to maximize the value and minimize the distraction caused by using them. To do so a schedule must be put in place. Specify a time when the tools become accessible or specify a time when you can use the tools.
 
 low-quality leisure schedule examples:
 ```
@@ -47,7 +47,7 @@ Suggestions:
     * use website blocking browser extensions
     * use application blocking software
 * Understand these are optional technologies
-    * No will will die if you don't check Twitter.
+    * No one will die if you don't check Twitter.
     * That email can wait from the recuriter.
     * This is the best use of your time, fight the urge to be constantly connected.
 
