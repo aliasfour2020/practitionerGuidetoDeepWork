@@ -1,4 +1,5 @@
-# deepWork-digitalMinimalism
+# Practitioner's Guide to Deep Work
+
 
 ## Target Audience
 
