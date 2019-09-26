@@ -3,7 +3,7 @@
 1. Define Your Technology Rules
     * identify all **optional** technologies
     
-         _Would you lose your job or die? If answer -eq no technology == optional_
+         _"Would you lose your job or die?" If answer -eq no technology == optional_
     
     * Define operating procedures for each technology
       * [Technology Rules](https://github.com/Duffney/practitionerGuidetoDeepWork/blob/master/technologyRules.md)
