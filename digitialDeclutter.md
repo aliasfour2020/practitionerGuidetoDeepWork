@@ -1,4 +1,4 @@
-# Digitial Declutter Preparation
+# Digitial Declutter
 
 1. Define Your Technology Rules
     * identify all **optional** technologies
