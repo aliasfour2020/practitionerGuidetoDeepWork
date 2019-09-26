@@ -1,8 +1,8 @@
 |Optional Technology|Status|Notes|Operating Procedure
 |---|---|---|---|
-|Twitter|Scheduled|Remove from phone|Block with Freedom until 8:00pm|
-|LinkedIn|Scheduled|Remove from phone|Block with Freedom until 8:00pm|
-|Personal email| Scheduled|Remove from phone|Block with Freedom until 8:00pm|
+|Twitter|Scheduled|Remove from phone|Block until 8:00pm|
+|LinkedIn|Scheduled|Remove from phone|Block until 8:00pm|
+|Personal email| Scheduled|Remove from phone|Block until 8:00pm|
 |Business email| Scheduled|Remove from phone|Check at the beginning and end of each day|
 |Work email| Scheduled|Remove from phone|Office hours only|
 |Online Shopping (Amazon)|Scheduled|Remove from phone|Block if neccessary|
