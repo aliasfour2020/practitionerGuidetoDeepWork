@@ -3,10 +3,10 @@
 |Twitter|Scheduled|Remove from phone|Block with Freedom until 8:00pm|
 |LinkedIn|Scheduled|Remove from phone|Block with Freedom until 8:00pm|
 |Personal email| Scheduled|Remove from phone|Block with Freedom until 8:00pm|
-|Business email| Scheduled|Remove from phone; Block with freedom|
-|Work email| Scheduled|Remove from phone; Office hours only|
-|Online Shopping (Amazon)|Scheduled|Remove from phone|
-|Slack|Limited|Remove from phone; Block with freedom|
+|Business email| Scheduled|Remove from phone|Check at the beginning and end of each day|
+|Work email| Scheduled|Remove from phone|Office hours only|
+|Online Shopping (Amazon)|Scheduled|Remove from phone|Block if neccessary|
+|Slack|Limited|Remove from phone|Block with freedom after 5:00pm|
 |Online banking|Limited|Remove from phone|
 |Streaming(netflix)|Limited|Remove from phone|
 |Podcasts|Limited| Chose one podcast app (spotify)|
