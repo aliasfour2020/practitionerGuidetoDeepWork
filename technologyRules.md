@@ -31,11 +31,16 @@
 ### Operating Procedures
 
 Personal email
-   * Blocked with freedom until 8:00pm
+   
+   * Blocked with freedom until 8:00pm.
+   
 Business email
-   * Check at the beginning and end of each day
+   
+   * Check at the beginning and end of each day.
+   
 Work email
-   * 
+   
+   * Office hours only, close during deep work sessions.
 
 ### Scheduled Usage
 
