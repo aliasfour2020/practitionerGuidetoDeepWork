@@ -2,7 +2,7 @@
 
 1. Define Your Technology Rules
     * List out all *optional* technologies
-        * _would you lose your job or die? If answer -eq no == optional_
+         _would you lose your job or die? If answer -eq no == optional_
     * [Technology Rules](https://github.com/Duffney/practitionerGuidetoDeepWork/blob/master/technologyRules.md)
 2. Choose Start & End Date
    * Start: 09/27/2019
