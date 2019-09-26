@@ -10,7 +10,7 @@
 |Online banking|Limited|Remove from phone||
 |Streaming(netflix)|Limited|Remove from phone|Cannot watch alone|
 |Podcasts|Limited|||
-|Text messaging|Limited| Block for deep work||
+|Text messaging|Limited| |Block for deep work|
 |YouTube|Limited|Remove from phone|Not used for entertainment|
 |Cell phone|Very Limited|Out of reach|10 min avg usage per day|
 |Instagram|Banned|DeleteAccount||
