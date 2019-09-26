@@ -27,6 +27,8 @@
 |Very Limited| reduced convience and access, exercise willpower|
 |Banned| prevented from accessing|
 
+### Operating Procedures
+
 ### Scheduled Usage
 
 Scheduled usage of optional technology is used to prevent those technologies from creeping into your life and stealing your time and scattering your attention. Twitter, Linkedin, personal email, business email, and online shopping fit into the category of low-quality leisure. These optional technologies are not required, but do provide value. The goal is to maximize the value and minimize the distraction caused by using them. To do so a schedule must be put in place. Specify a time when the tools become accessible or specify a time when you can use the tools.
@@ -54,4 +56,4 @@ _Why I block low-quality leisure until 8:00pm:_ I opted for the first schedule e
 
 ### Deep Work Session Protocol
 
-### Operating Procedures
+
