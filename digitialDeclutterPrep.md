@@ -5,7 +5,8 @@
     
             Would you lose your job or die? If answer -eq no technology == optional
     
-    * [Technology Rules](https://github.com/Duffney/practitionerGuidetoDeepWork/blob/master/technologyRules.md)
+    * Define operating procedures for each technology
+      * [Technology Rules](https://github.com/Duffney/practitionerGuidetoDeepWork/blob/master/technologyRules.md)
     
 2. Choose Start & End Date
    * Start: 09/27/2019
