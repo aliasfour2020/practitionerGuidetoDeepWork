@@ -12,9 +12,10 @@
    * Choose Start & End Date
       * Start: 09/27/2019
       * End: 11/21/2019
-   *  Goals
-      1. Agressively explore higher-quality activites
-      2. Follow the technology rules defined in step 1
+   *  Purpose
+      1. Agressively explore higher-quality activites.
+      2. Provide clarity around which technologies are most important.
+      3. Begin to craft a better life, one in which technology serves only supporting role for more meaningful ends.
 
 
 3. Goals
