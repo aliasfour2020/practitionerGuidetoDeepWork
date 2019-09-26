@@ -1,6 +1,6 @@
-|Optional Technology|Status|Notes|
+|Optional Technology|Status|Notes|Operating Procedure
 |---|---|---|
-|Twitter|Scheduled|Remove from phone; Block with Freedom|
+|Twitter|Scheduled|Remove from phone|Block with Freedom until 8:00pm
 |LinkedIn|Scheduled|Remove from phone; Block with freedom|
 |Personal email| Scheduled|Remove from phone; Block with freedom|
 |Business email| Scheduled|Remove from phone; Block with freedom|
