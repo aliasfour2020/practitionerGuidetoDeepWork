@@ -4,6 +4,7 @@
 |LinkedIn|Scheduled|Remove from phone; Block with freedom|
 |Personal email| Scheduled|Remove from phone; Block with freedom|
 |Business email| Scheduled|Remove from phone; Block with freedom|
+|Work email| Scheduled|Remove from phone; Office hours only|
 |Online Shopping (Amazon)|Scheduled|Remove from phone|
 |Slack|Limited|Remove from phone; Block with freedom|
 |Online banking|Limited|Remove from phone|
@@ -28,6 +29,13 @@
 |Banned| prevented from accessing|
 
 ### Operating Procedures
+
+Personal email
+   * Blocked with freedom until 8:00pm
+Business email
+   * Check at the beginning and end of each day
+Work email
+   * 
 
 ### Scheduled Usage
 
