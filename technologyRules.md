@@ -12,12 +12,12 @@
 |Podcasts|Limited|||
 |Text messaging|Limited| Block for deep work||
 |YouTube|Limited|Remove from phone|Not used for entertainment|
-|Cell phone|Very Limited|Out of reach|leave at home, goal 10min usage per day|
-|Instagram|Banned|DeleteAccount|
-|Pinterest|Banned|DeleteAccount|
-|Investing Apps|Banned|Remove from phone|
-|Credit monitoring|Banned|Remove from phone|
-|EverNote|Banned|Replace with pocketbook|
+|Cell phone|Very Limited|Out of reach|10 min avg usage per day|
+|Instagram|Banned|DeleteAccount||
+|Pinterest|Banned|DeleteAccount||
+|Investing Apps|Banned|Remove from phone|Check monthly|
+|Credit monitoring|Banned|Remove from phone|Check monthly|
+|EverNote|Banned|Replace with pocketbook||
 
 ### KEY
 
@@ -27,20 +27,6 @@
 |Limited| reduced convience and access|
 |Very Limited| reduced convience and access, exercise willpower|
 |Banned| prevented from accessing|
-
-### Operating Procedures
-
-Personal email
-   
-   * Blocked with freedom until 8:00pm.
-   
-Business email
-   
-   * Check at the beginning and end of each day.
-   
-Work email
-   
-   * Office hours only, close during deep work sessions.
 
 ### Scheduled Usage
 
