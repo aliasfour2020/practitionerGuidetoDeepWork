@@ -5,14 +5,14 @@
 |Personal email| Scheduled|Remove from phone|Block until 8:00pm|
 |Business email| Scheduled|Remove from phone|Check at the beginning and end of each day|
 |Work email| Scheduled|Remove from phone|Office hours only|
-|Online Shopping (Amazon)|Scheduled|Remove from phone|Block if neccessary|
-|Slack|Limited|Remove from phone|Block with freedom after 5:00pm|
-|Online banking|Limited|Remove from phone|
-|Streaming(netflix)|Limited|Remove from phone|
-|Podcasts|Limited| Chose one podcast app (spotify)|
-|Text messaging|Limited| Block during deep work sessions|
-|YouTube|Limited|Remove from phone; used for work not entertainment|
-|Cell phone|Very Limited|Out of reach; leave at home|
+|Online Shopping (Amazon)|Scheduled|Remove from phone||
+|Slack|Limited|Remove from phone|Block after 5:00pm|
+|Online banking|Limited|Remove from phone||
+|Streaming(netflix)|Limited|Remove from phone|Cannot watch alone|
+|Podcasts|Limited|||
+|Text messaging|Limited| Block for deep work||
+|YouTube|Limited|Remove from phone|Not used for entertainment|
+|Cell phone|Very Limited|Out of reach|leave at home, goal 10min usage per day|
 |Instagram|Banned|DeleteAccount|
 |Pinterest|Banned|DeleteAccount|
 |Investing Apps|Banned|Remove from phone|
