@@ -51,6 +51,7 @@ Use to queue and schedule tweets.
 
 1. Prevents me from logging into Twitter.
 2. Allows me to capture and share my thoughts and content.
+3. [Schedule retweets to avoid spamming](https://buffer.com/library/schedule-retweets)
 
 ## Mobile Application Setup
 
