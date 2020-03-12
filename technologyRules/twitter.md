@@ -52,6 +52,14 @@ Use to queue and schedule tweets.
 1. Prevents me from logging into Twitter.
 2. Allows me to capture and share my thoughts and content.
 
+## Mobile Application Setup
+
+![Twitter App Notifications](/images/iPhoneTwitterNotifications.png "Slack Do Not Disturb")
+
+![Twitter Push Notifications top](/images/pushNotifications01.png "Slack Do Not Disturb")
+
+![Twitter Push Notifications bottom](/images/pushNotifications02.png "Slack Do Not Disturb")
+
 ## Notes
 
 Check Twitter twice a day for 30 minutes. Once at 9:30 am and once at 8:00 pm. Use cell phone notifications keep track of tweets, mentions, and replies.
