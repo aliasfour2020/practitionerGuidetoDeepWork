@@ -18,7 +18,7 @@
       2. Provide clarity around which technologies are most important.
       3. Begin to craft a better life, one in which technology serves only supporting role for more meaningful ends.
 
-3. Set Some Goals
+3. Prepare - Set Some Goals
    * Reading
       * PowerShell Guide to Python
       * Part 1 & 2 Kubernetes in Action
