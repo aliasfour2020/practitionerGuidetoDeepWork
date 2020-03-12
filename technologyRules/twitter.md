@@ -29,6 +29,8 @@ Notifies me when a sessions ends. Which is used as a reminder.
 
 Turn on cell phone notifications to keep track of mentions and replies as well as specific individuals I follow and get a lot of value from. Use this instead of the basic twitter feed.
 
+Only allow mentions and replies.
+
 ### Lists
 
 Use Twitter lists to categorize my feeds by areas of interest.
