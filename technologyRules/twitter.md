@@ -47,6 +47,10 @@ Use hashtags to browse for content of interest instead of the feed.
 * #azure
 * #devops
 
+### Bookmarks
+
+Use Twitter's bookmarks to remind myself to reply to people or about tweets I want to be reminded of or look into further.
+
 ### Buffer
 
 Use to queue and schedule tweets.
@@ -54,6 +58,8 @@ Use to queue and schedule tweets.
 1. Prevents me from logging into Twitter.
 2. Allows me to capture and share my thoughts and content.
 3. [Schedule retweets to avoid spamming](https://buffer.com/library/schedule-retweets)
+
+schedule retweets
 
 ## Mobile Application Setup
 
