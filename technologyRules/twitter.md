@@ -72,3 +72,18 @@ schedule retweets
 ## Notes
 
 Check Twitter twice a day for 30 minutes. Once at 9:30 am and once at 8:00 pm. Use cell phone notifications keep track of tweets, mentions, and replies.
+
+## Daniel Vassallo's Advice
+
+1. Week bio and pinned tweet
+2. avoid retweets
+    * people scroll you feed to hear about and see you
+3. reply to other people's tweets
+    * subscribe to accounts
+4. Avoid posting uninteresting things
+5. tweet something
+    * quality over quantity but can't be zero
+    * share inspiration
+    * reflect for 30 minutes each day, what happened, what's worth sharing?
+6. Put your full name and photo in bio
+7. avoid a negative ask budget
